@@ -1,8 +1,5 @@
-# Low Level Design (LLD)
+# SOLID Principles
 
-This repository is a collection of **essential LLD notes and implementations** for software engineers. Mastering LLD is crucial for interviews and for writing clean, scalable, and maintainable code in real-world projects.
-
-It goes beyond coding — focusing on how to think in terms of **design, structure, and best practices**.
 
 ---
 
@@ -52,7 +49,7 @@ It goes beyond coding — focusing on how to think in terms of **design, structu
 
 ---
 
-## 🚀 How to Use This Repo
+## 🚀 How to Use This
 
 * Start with **SOLID principles** and go through violations → solutions → advanced combinations.
 * Use examples like *Monster Method* to see how poor design leads to violations.
